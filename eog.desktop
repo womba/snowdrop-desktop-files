@@ -194,7 +194,7 @@ Comment[zh_HK]=瀏覽及更改影像的方向
 Comment[zh_TW]=瀏覽及更改影像的方向
 Comment[zu]=Dlulisa amehlo bese ijikeleza isithombe
 TryExec=eog
-Exec=env GTK_THEME=Adwaita:light eog %U
+Exec=eog
 Icon=eog
 StartupNotify=true
 Terminal=false
